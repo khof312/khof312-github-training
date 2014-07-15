@@ -1,6 +1,6 @@
 * Run some basic regressions on auto.dta.
 
-version 10
+version 11
 
 set more off
 
