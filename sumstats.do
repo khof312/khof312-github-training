@@ -1,6 +1,6 @@
 * Calculate some summary statistics for auto.dta.
 
-version 10
+version 11
 
 set more off
 
