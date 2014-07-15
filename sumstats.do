@@ -18,3 +18,5 @@ tabulate weight if price > 10000
 
 assert inlist(foreign, 0, 1)
 bys foreign: summarize price
+
+* testing123123
