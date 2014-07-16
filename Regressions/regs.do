@@ -2,7 +2,7 @@
 
 versionis 11
 
-set more off
+set more offum
 
 sysuse auto, clear
 
